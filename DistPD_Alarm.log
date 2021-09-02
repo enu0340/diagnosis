@@ -1,0 +1,4 @@
+[2021-04-01 15:12:58] INFO  [com.Analysis.DistPD_Alarm.recordAlarm(DistPD_Alarm.java:517)] - PD 알람(진단ID : 27) : 2021-04-01 14:59:18 ~ 2021-04-01 15:11:56, 10회
+[2021-04-01 15:15:10] INFO  [com.Analysis.DistPD_Alarm.recordAlarm(DistPD_Alarm.java:517)] - PD 알람(진단ID : 28) : 2021-04-01 14:59:18 ~ 2021-04-01 15:14:09, 10회
+[2021-04-01 15:26:24] INFO  [com.Analysis.DistPD_Alarm.recordAlarm(DistPD_Alarm.java:517)] - PD 알람(진단ID : 28) : 2021-04-01 15:16:23 ~ 2021-04-01 15:25:23, 10회
+[2021-04-01 15:29:35] INFO  [com.Analysis.DistPD_Alarm.recordAlarm(DistPD_Alarm.java:517)] - PD 알람(진단ID : 27) : 2021-04-01 15:14:09 ~ 2021-04-01 15:28:34, 10회
